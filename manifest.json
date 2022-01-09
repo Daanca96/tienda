@@ -1,0 +1,31 @@
+{
+  "background_color": "#000000",
+  "description": "Galería de imágenes de 360 ​​° - A-Frame",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "daanca96.github",
+  "orientation": "any",
+  "scope": "./",
+  "short_name": "daanca96.github",
+  "start_url": "./",
+  "theme_color": "#ff0000",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+        {
+            "src": "./img/icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+  ,
+  "shortcuts": [],
+  "pantalla": "independiente",
+  "nombre": "daanca96.github",
+  "orientación": "cualquiera",
+  "alcance": "/",
+  "categorías": [],
+  "capturas de pantalla": [],
+  "iconos": [],
+  "atajos": []
+}
